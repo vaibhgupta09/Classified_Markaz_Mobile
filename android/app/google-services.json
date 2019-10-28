@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "199464763646",
+    "firebase_url": "https://classified-markaz.firebaseio.com",
+    "project_id": "classified-markaz",
+    "storage_bucket": "classified-markaz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199464763646:android:e2dd6691f40c06b88765af",
+        "android_client_info": {
+          "package_name": "com.classifiedmarkaz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199464763646-91taddsriq5pqdjrfouo9j2mgq77obja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.classifiedmarkaz",
+            "certificate_hash": "08f76e09bec31c061495be5b0d57d9706b552d0c"
+          }
+        },
+        {
+          "client_id": "199464763646-0pfcb3s6oq5aq02gc7huuu1qhotjgi7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWq0qEjEefZbxcJ-Jmb9HKHCirLn5ZJFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199464763646-0pfcb3s6oq5aq02gc7huuu1qhotjgi7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

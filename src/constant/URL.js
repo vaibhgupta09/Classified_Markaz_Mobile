@@ -1,0 +1,1 @@
+export const URL='drafterx.com/classifiedmarkazapp/public/api/v1/';
